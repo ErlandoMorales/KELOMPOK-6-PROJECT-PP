@@ -56,7 +56,7 @@ Struktur repositori proyek *Find The Key in Maze*:
 ## ⚙️ Prasyarat & Instalasi
 Pastikan lingkungan pengembangan memiliki:
 
-- *Compiler C:* gcc (di Linux, macOS, WSL, atau MSYS2/MinGW).
+- *Compiler C++:* gcc (di Linux, macOS, WSL, atau MSYS2/MinGW).
 - *Library ncurses:* Terinstal di sistem (contoh di Ubuntu/Debian: sudo apt install libncurses5-dev libncursesw5-dev).
 - *Terminal:* Mendukung ANSI/warna ncurses.
 
